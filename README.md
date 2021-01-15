@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmet! 👋
 
 <a href="https://www.linkedin.com/in/ahmetcturk/">
-  <img align="left" alt="Ahmet Can Turk | LinkedIn" width="25px" src="https://raw.githubusercontent.com/ahmetcturk/ahmetcturk/main/images/Linkedin.svg" />
+  <img align="left" alt="Ahmet Can Turk | LinkedIn" width="25px" src="https://github.com/ahmetcturk/ahmetcturk/blob/master/images/Linkedin.svg" />
 </a>
 
 
@@ -15,8 +15,8 @@ Hi, I'm Ahmet, a QA Automation Engineer.
 
 **Languages and Tools:**
 
-<code><img height="45" src="https://raw.githubusercontent.com/ahmetcturk/ahmetcturk/main/images/java.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/ahmetcturk/ahmetcturk/main/images/python.svg"></code>
+<code><img height="45" src="https://github.com/ahmetcturk/ahmetcturk/blob/master/images/java.svg"></code>
+<code><img height="45" src="https://github.com/ahmetcturk/ahmetcturk/blob/master/images/python.svg"></code>
 
 
 <a href="https://github.com/ahmetcturk">
