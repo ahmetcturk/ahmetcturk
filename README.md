@@ -19,13 +19,6 @@ Hi, I'm Ahmet, a QA Automation Engineer.
 <code><img height="45" src="https://github.com/ahmetcturk/ahmetcturk/blob/master/images/python.svg"></code>
 
 
-<a href="https://github.com/ahmetcturk">
-  <img align="center" alt="Ahmet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmetcturk&show_icons=true&include_all_commits=true&hide-border=true"/>
-</a>
-<a href="https://github.com/ahmetcturk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcturk&layout=compact" />
-</a>
-
 <br />
 
 <p align="center"> 
